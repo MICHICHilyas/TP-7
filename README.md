@@ -43,6 +43,14 @@ mvn clean package
 # Déployer le WAR sur Tomcat/GlassFish
 ```
 
+## 📸 Captures d'écran
+
+### Test API REST
+![API Test](img.png)
+
+### Réponse JSON
+![JSON Response](img_1.png)
+
 ---
 
 **TP 7** - JAX-RS / Jersey  
